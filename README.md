@@ -29,7 +29,15 @@ Free. Cross-platform. Open source. A developer platform for building all your ap
 ## Introduction
 
 ### .Net
-
 .NET is a free, cross-platform, open source developer platform for building many different types of applications.
 With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, IoT, and more.
 
+### Languages
+You can write .NET apps in C#, F#, or Visual Basic.
+
+C# is a simple, modern, object-oriented, and type-safe programming language.
+F# is a programming language that makes it easy to write succinct, robust, and performant code.
+Visual Basic is an approachable language with a simple syntax for building type-safe, object-oriented apps.
+
+### Cross Platform
+Whether you're working in C#, F#, or Visual Basic, your code will run natively on any compatible operating system. You can build many types of apps with .NET. Some are cross-platform, and some target a specific set of operating systems and devices.
