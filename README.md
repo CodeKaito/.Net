@@ -24,3 +24,12 @@ Free. Cross-platform. Open source. A developer platform for building all your ap
       - [ Return Values ](#returnvalues)
       - [ Named Arguments ](#namedarguments)
       - [ Method Overloading ](#methodoverloading)
+
+<a name="introduction"></a>
+## Introduction
+
+### .Net
+
+.NET is a free, cross-platform, open source developer platform for building many different types of applications.
+With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, IoT, and more.
+
