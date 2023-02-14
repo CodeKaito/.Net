@@ -76,3 +76,15 @@ Example:
 <a name="razorsyntax"></a>
 ### Razor Syntax for C#
 
+- C# code blocks are enclosed in @{ ... }
+- Inline expressions (variables or functions) start with @
+- Code statements end with semicolon
+- Variables are declared with the var keyword, or the datatype (int, string, etc.)
+- Strings are enclosed with quotation marks
+- C# code is case sensitive
+- C# files have the extension .cshtml
+
+````
+
+````
+
