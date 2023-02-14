@@ -48,4 +48,23 @@ Whether you're working in C#, F#, or Visual Basic, your code will run natively o
 Each app model can also expose additional APIs that are specific to the operating systems it runs on, or the capabilities it provides. For example, ASP.NET is the cross-platform web framework that provides additional APIs for building web apps that run on Linux or Windows.
 
 <a name="razor"></a>
-- ## ASP.NET Web Pages use Razor markup with C# or VB code
+- ## ASP.NET Web Pages - Adding Razor Code
+ASP.NET Web Pages use Razor markup with C# or VB code.
+
+Razor is a simple markup syntax for embedding server code (C# or VB) into ASP.NET web pages.
+
+Example:
+``
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+     <meta charset="utf-8" />
+     <title>Web Pages Demo</title>
+</head>
+<body>
+     <h1>Hello Web Pages</h1>
+     <p>The time is @DateTime.Now</p>
+</body>
+</html>
+``
