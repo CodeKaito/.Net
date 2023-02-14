@@ -66,6 +66,7 @@ Example:
 - C# code is case sensitive
 - C# files have the extension .cshtml
 
+Example:
 ````
 <!-- Single statement block -->
 @{ var myMessage = "Hello World"; }
