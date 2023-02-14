@@ -83,3 +83,6 @@ var greetingMessage = greeting + " Today is: " + weekDay;
 <p>The greeting is: @greetingMessage</p>
 ````
 
+<a name=""></a>
+### Page Layout
+
