@@ -4,7 +4,7 @@ Free. Cross-platform. Open source. A developer platform for building all your ap
 ### Index
 
 1. [ Introduction. ](#introduction)
-2. [ Reading and writing to a console. ](#part2)
+2. [ Web Pages Razor. ](#razor)
    - [ User Input. ](#usernput)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
@@ -47,3 +47,5 @@ Whether you're working in C#, F#, or Visual Basic, your code will run natively o
 
 Each app model can also expose additional APIs that are specific to the operating systems it runs on, or the capabilities it provides. For example, ASP.NET is the cross-platform web framework that provides additional APIs for building web apps that run on Linux or Windows.
 
+<a name="razor"></a>
+ASP.NET Web Pages use Razor markup with C# or VB code
