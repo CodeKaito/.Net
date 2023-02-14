@@ -5,7 +5,8 @@ Free. Cross-platform. Open source. A developer platform for building all your ap
 
 1. [ Introduction. ](#introduction)
 2. [ Web Pages Razor. ](#razor)
-   - [ User Input. ](#usernput)
+   - [ Razor Markup. ](#razor)
+   - [ Razor Syntax for C#. ](#razorsyntax)
 3. [ Data types. ](#part3)
 8. [ Arrays. ](#part8)
 9. [ If statement. ](#part10)
@@ -49,6 +50,9 @@ Each app model can also expose additional APIs that are specific to the operatin
 
 <a name="razor"></a>
 - ## ASP.NET Web Pages - Adding Razor Code
+
+### Razor Markup
+
 ASP.NET Web Pages use Razor markup with C# or VB code.
 
 Razor is a simple markup syntax for embedding server code (C# or VB) into ASP.NET web pages.
@@ -68,3 +72,7 @@ Example:
 </body>
 </html>
 ````
+
+<a name="razorsyntax"></a>
+### Razor Syntax for C#
+
