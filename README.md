@@ -54,7 +54,7 @@ ASP.NET Web Pages use Razor markup with C# or VB code.
 Razor is a simple markup syntax for embedding server code (C# or VB) into ASP.NET web pages.
 
 Example:
-``
+````
 <!DOCTYPE html>
 
 <html lang="en">
@@ -67,4 +67,4 @@ Example:
      <p>The time is @DateTime.Now</p>
 </body>
 </html>
-``
+````
